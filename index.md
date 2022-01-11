@@ -4,12 +4,12 @@
 
 ### Category Name 1 
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Predicting NJ Transit Delays](/Final.html)
+<img src="images/FinalImage.png?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Recidivism Memo](/Recidivism.pdf)
+<img src="images/RecidivismImage.png?raw=true"/>
 
 ---
 [Project 3 Title](http://example.com/)
