@@ -1,8 +1,8 @@
-## Portfolio
+## Portfolio Projects
 
 ---
 
-### Category Name 1 
+### Geospatial Analysis using RStudio
 
 [Predicting NJ Transit Delays](/Final.html)
 
