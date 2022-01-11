@@ -1,10 +1,9 @@
 title: Myron Bañez
-logo: "/images/Myron.png?raw=true" # your photo (or logo) here
+logo: "/images/My.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
  <a href="https://www.linkedin.com/in/myronbanez/">LinkedIn</a> | <a href="https://www.mjbanez.squarespace.com">Website</a> | <a href="https://github.com/myronbanez">Github</a>
  <br><br>
   Master of City Planning Candidate @ University of Pennsylvania
-  <br><br>
 
   
 theme: jekyll-theme-minimal
