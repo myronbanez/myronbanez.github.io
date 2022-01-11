@@ -2,7 +2,7 @@
 
 ---
 
-### Geospatial Analysis using RStudio
+### Geospatial Data Analysis in R
 
 [Predicting NJ Transit Delays](files/Final.html)
 
@@ -25,6 +25,13 @@ Seattle’s Streetcar system is loved by many residents and visitors for the qui
 <img src="images/TODImage.png?raw=true"/>
 
 ---
+[Zillow Housing Algorithm in Boulder, CO](files/Midterm.html)
+
+This project sets out to recreate a home sale price prediction algorithm. The project is loosely based around Zillow’s Zestimate function, and explores potential features that might explain sale prices in Boulder County, CO, USA. Sale prediction algorithms can be important for evaluating what features might affect home price and further might give the ability for people to make more informed decisions about long-term investments. It also may undercover inequities in the housing market that could be addressed. This is an incredibly difficult exercise in both the content (using regressions and Machine Learning to build the models), but also in the data wrangling. While great data is available, it can be hard to quantify features that impact home prices and attribute aspects like “neighborhood-feel” to homes.
+
+<img src="images/MidtermImage.png?raw=true"/>
+
+---
 [Predictive Policing in Chicago](files/Policing.html)
 
 Policing often targets communities of color and residents low-income neighborhoods as the perpetrators of crime, perpetuating greater racial and class discrimination in society. This leads to over policing in neighborhoods and does more harm than help, and instances such as injust police brutality occur as a result.
@@ -42,18 +49,27 @@ The Department of Housing and Community Development (HCD) in Emil City has an es
 
 ---
 
-### Category Name 2
+### Geographic Information Systems
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+- [SoMa Pilipinas Barangay Center](https://storymaps.arcgis.com/stories/2bcbb1a1ba64438bacb967cb4cf45420)
+
+Finding community across the Pacific Ocean in a concrete jungle such as San Francisco is a difficult feat. However with organizations across the country that cater to immigrant groups and its community members such as SoMa Pilipinas, it is possible to find a sense of place and belonging. With the results of this geospatial analysis, SoMa Pilipinas is able to begin materializing a physical manifestation of a barangay center that caters to the myriad of needs found within the community members.
+
+<img src="images/SomaImage.jpg?raw=true"/>
 
 ---
+[Predicting Gun Violence in Central Philly](files/Gun.pdf)
 
+Using data from North Philadelphia that includes demographics, conditions and point data of reported aggravated assault with a firearm, this analysis will create a model that predicts the likelihood of gun violence in Central Philadelphia.
 
+<img src="images/GunImage.png?raw=true"/>
 
+---
+[Costa Rica Gulf of Nicoya Shrimp Farm](files/CR.pdf)
+
+With the rapid growth of Costa Rica’s innovative and sustainable shrimp farm industry, farmers are looking to find the best locations to establish a new farm. Using geospatial analysis primarily focused on raster GIS data, this report seeks to create a site suitability analysis near freshwater, proximity to transportation networks, and avoidant of urban areas.
+
+<img src="images/CRImage.png?raw=true"/>
 
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
