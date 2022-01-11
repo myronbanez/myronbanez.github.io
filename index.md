@@ -56,6 +56,7 @@ The Department of Housing and Community Development (HCD) in Emil City has an es
 Finding community across the Pacific Ocean in a concrete jungle such as San Francisco is a difficult feat. However with organizations across the country that cater to immigrant groups and its community members such as SoMa Pilipinas, it is possible to find a sense of place and belonging. With the results of this geospatial analysis, SoMa Pilipinas is able to begin materializing a physical manifestation of a barangay center that caters to the myriad of needs found within the community members.
 
 <img src="images/SomaImage.jpg?raw=true"/>
+Image source: Kultivate Labs
 
 ---
 [Predicting Gun Violence in Central Philly](files/Gun.pdf)
