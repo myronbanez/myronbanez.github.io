@@ -51,7 +51,7 @@ The Department of Housing and Community Development (HCD) in Emil City has an es
 
 ### Geographic Information Systems
 
-[Green Spaces in Philadelphia's Commercial Corridor](files/HW1_Myron.pdf)
+[Green Spaces in Philadelphia's Commercial Corridors](files/HW1_Myron.pdf)
 
 In conducting this site suitability analysis I was able to identify areas along Philadelphia's commercial corridors that could benefit from having additional green spaces.
 
