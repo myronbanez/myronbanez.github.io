@@ -51,7 +51,16 @@ The Department of Housing and Community Development (HCD) in Emil City has an es
 
 ### Geographic Information Systems
 
-- [SoMa Pilipinas Barangay Center](https://storymaps.arcgis.com/stories/2bcbb1a1ba64438bacb967cb4cf45420)
+[Green Spaces in Philadelphia's Commercial Corridor](files/HW1_Myron.pdf)
+
+In conducting this site suitability analysis I was able to identify areas along Philadelphia's commercial corridors that could benefit from having additional green spaces.
+
+Use case: The cityʼs Department of Commerce is looking for sites in commercial corridors that can most benefit from fund allocation to create green and recreational spaces. 
+
+<img src="images/Green.jpg?raw=true"/>
+
+---
+[SoMa Pilipinas Barangay Center](https://storymaps.arcgis.com/stories/2bcbb1a1ba64438bacb967cb4cf45420)
 
 Finding community across the Pacific Ocean in a concrete jungle such as San Francisco is a difficult feat. However with organizations across the country that cater to immigrant groups and its community members such as SoMa Pilipinas, it is possible to find a sense of place and belonging. With the results of this geospatial analysis, SoMa Pilipinas is able to begin materializing a physical manifestation of a barangay center that caters to the myriad of needs found within the community members.
 
