@@ -57,7 +57,7 @@ In conducting this site suitability analysis I was able to identify areas along 
 
 Use case: The cityʼs Department of Commerce is looking for sites in commercial corridors that can most benefit from fund allocation to create green and recreational spaces. 
 
-<img src="images/Green.jpg?raw=true"/>
+<img src="images/Green.png?raw=true"/>
 
 ---
 [SoMa Pilipinas Barangay Center](https://storymaps.arcgis.com/stories/2bcbb1a1ba64438bacb967cb4cf45420)
