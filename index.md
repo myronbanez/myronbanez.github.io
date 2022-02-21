@@ -51,6 +51,26 @@ The Department of Housing and Community Development (HCD) in Emil City has an es
 
 ### Geographic Information Systems
 
+[Cagayan Flood Inundation Modeling Center](files/Cagayan Memo.pdf)
+
+Situated between the Pacific Ocean and Sierra Madre mountain range and home to many rivers, the province has become prone to deadly flooding in the Philippines. As the northernmost province, Cagayan is vital to the Philippine economy for its use in maritime trading and cargo. Therefore it is crucial that a Flood Inundation Modeling & Planning Center be created to mitigate the effects of flooding from exacerbating the livelihoods of Cagayanos, the economy, and land. Cagayan is in a constant state of calamity. Haiyan, Ulysses, Rai, Quinta, Ramon, and many other typhoons are the markers that indicate Cagayan’s vulnerability to flooding. After all, Cagayan translates to rivers.
+
+This analysis looks at flood risk in the Philippine province of Cagayan and writing a memo to the mayor of the province advocating for the creation of a flood inundation modeling and planning center. 
+
+<img src="images/Cagayan.png?raw=true"/>
+
+---
+
+[Storyscaping Lancaster](https://arcg.is/1TaCb0)
+
+Located in West Philadelphia's 19104 zip code, the New Freedom District contains an array of historical sites that adds to the vibrancy of Lancaster Avenue. As a prelude to analyzing the sites of the New Freedom District, it is imperative to contextualize the fabric and character of the Lancaster Commercial Corridor. 
+
+
+This Storymap looks at the relationship between the Community Education Center at 3500 Lancaster Avenue and the Lancaster Commercial Corridor. By examining the businesses in the area, this storyscape aims at laying the foundation for establishing a cohesive ecosystem for placemaking and economic development in the area.
+
+<img src="images/Lancaster.png?raw=true"/>
+
+---
 [Green Spaces in Philadelphia's Commercial Corridors](files/HW1_Myron.pdf)
 
 In conducting this site suitability analysis I was able to identify areas along Philadelphia's commercial corridors that could benefit from having additional green spaces.
