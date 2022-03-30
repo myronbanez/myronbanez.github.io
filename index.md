@@ -4,6 +4,13 @@
 
 ### Geospatial Data Analysis in R
 
+[Calgary and Portland-Vancouver Flood Prediction Model](files/Flood.html)
+
+We must begin to explore mitigation and adaptation strategies in light of extreme weather events. As climate change worsens, there will be a direct impact on human settlement. Climate change is causing more severe flooding and we believe that mitigation and adaptation efforts must be informed by observing and predicting flooding through data. The process of predicting locations of floods will allow people, cities, and government agencies protect environmental, built, and social assets.
+
+<img src="images/calgary.png?raw=true"/>
+
+---
 [Predicting NJ Transit Delays](files/Final.html)
 
 In 2019, and for the second year in a row, NJT Trains broke down more than any other system in the county (according to the Federal Transit Administration). In January 2021, NJT ordered 25 new dual-powered locomotives that are in the process of being distributed and in 2023, 113 new multi-level rail cars will arrive to replace the 40-year old previous fleet. The mechanical failure rate of the new cars is a fraction of the previous fleet’s. In collaboration with Amelia Marcantonio-Fields, our model-based dashboard sets out to create a capital improvement plan to help NJT track where delays are the longest and prioritize lines that are experiencing frequent delays with the most profit potential by predicting delays into the future for CIP planning. Currently, the model focuses on the 5 lines that go directly into NYC. 
