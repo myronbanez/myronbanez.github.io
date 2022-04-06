@@ -67,7 +67,15 @@ This analysis looks at flood risk in the Philippine province of Cagayan and writ
 <img src="images/Cagayan.png?raw=true"/>
 
 ---
+[19104 Travel Trend Analysis](files/SAP2.pdf)
 
+Analyzing the travel trends of individuals coming in and out of the 19104 zip code plays an important role in understanding the potential to activate the community assets of the New Freedom District and highlight the Community Education Center.
+
+The methodology of this analysis is heavily reliant on data provided by the Census Bureau’s OnTheMap tool. To assess the questions of interest, two different methods will be utiulized from the tool: distance/direction and inflow/outflow analysis. For all methods, data is extracted using 2019 Census data from all job types.
+
+<img src="images/sap2.png?raw=true"/>
+
+---
 [Storyscaping Lancaster](https://arcg.is/1TaCb0)
 
 Located in West Philadelphia's 19104 zip code, the New Freedom District contains an array of historical sites that adds to the vibrancy of Lancaster Avenue. As a prelude to analyzing the sites of the New Freedom District, it is imperative to contextualize the fabric and character of the Lancaster Commercial Corridor. 
