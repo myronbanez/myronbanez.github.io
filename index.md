@@ -4,7 +4,7 @@
 
 ### Geospatial Data Analysis in R
 
-**Pittsburgh MSA Urban Growth Modeling** | [Poster](files/CPLN675-Final.pdf) | [R Markdown](files/CPLN675-FinalRMD.html)
+Pittsburgh MSA Urban Growth Modeling | [Poster](files/CPLN675-Final.pdf) | [R Markdown](files/CPLN675-FinalRMD.html)
 
 Examining the Pittsburgh Metropolitan Statistical Area, this analysis uses historic patterns
 of development to predict areas that may be developed in the future. This model employs a national Land Cover dataset from 2011 and 2019 indicating development and variables such as highway distances, distance from city center, and distance from developed areas. The model
