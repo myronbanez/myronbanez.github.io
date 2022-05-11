@@ -4,6 +4,15 @@
 
 ### Geospatial Data Analysis in R
 
+**Pittsburgh MSA Urban Growth Modeling** | [Poster](files/CPLN675-Final.pdf) | [R Markdown](files/CPLN675-FinalRMD.html)
+
+Examining the Pittsburgh Metropolitan Statistical Area, this analysis uses historic patterns
+of development to predict areas that may be developed in the future. This model employs a national Land Cover dataset from 2011 and 2019 indicating development and variables such as highway distances, distance from city center, and distance from developed areas. The model
+is then utilized to predict where growth might occur and create an allocation procedure for urban growth based on population change, development demand, and supply of land in 2030. 
+
+<img src="images/Pittsburgh.png?raw=true"/>
+
+---
 [Calgary and Portland-Vancouver Flood Prediction Model](files/Flood.html)
 
 We must begin to explore mitigation and adaptation strategies in light of extreme weather events. As climate change worsens, there will be a direct impact on human settlement. Climate change is causing more severe flooding and we believe that mitigation and adaptation efforts must be informed by observing and predicting flooding through data. The process of predicting locations of floods will allow people, cities, and government agencies protect environmental, built, and social assets.
