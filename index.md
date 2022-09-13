@@ -1,16 +1,13 @@
-## Skills
+## Portfolio
 
 ---
+### Skills
+
 - **Programming**: R, Python, Javascript, HTML, CSS
 - **Geospatial Analysis**: ArcGIS Pro (vector and raster), ESRI Suite, environmental modeling, spatial statistics, machine learning
 - **Design and 3D Modeling**: Adobe Illustrator, Adobe InDesign, SketchUp
 
 ---
-
-## Portfolio Projects
-
----
-
 ### Geospatial Data Analysis in R
 
 Pittsburgh MSA Urban Growth Modeling | [Poster](files/CPLN675-Final.pdf) | [R Markdown](files/CPLN675-FinalRMD.html)
