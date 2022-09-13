@@ -2,8 +2,8 @@
 
 ---
 - **Programming**: R, Python, Javascript, HTML, CSS
-- **Geospatial Analysis**: ArcGIS Pro (vector and raster), environmental modeling, spatial statistics, machine learning
-- **Design and 3D Modeling**: Adobe Creative Suite, SketchUp
+- **Geospatial Analysis**: ArcGIS Pro (vector and raster), ESRI Suite, environmental modeling, spatial statistics, machine learning
+- **Design and 3D Modeling**: Adobe Illustrator, Adobe InDesign, SketchUp
 
 ---
 
