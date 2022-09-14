@@ -3,7 +3,7 @@
 ---
 ### Skills
 
-- **Programming**: R, Python, Javascript, HTML, CSS
+- **Programming**: R, Python
 - **Geospatial Analysis**: ArcGIS Pro (vector and raster), ESRI Suite, environmental modeling, spatial statistics, machine learning
 - **Design and 3D Modeling**: Adobe Illustrator, Adobe InDesign, SketchUp
 
